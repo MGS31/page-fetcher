@@ -1,1 +1,3 @@
-/Users/mgarvin/w5/page-fetcher/package.json
+package.json
+node_modules/
+package-lock.json
